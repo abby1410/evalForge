@@ -1,0 +1,404 @@
+[
+  {
+    "id": "REF-001",
+    "category": "Refunds",
+    "question": "How long do I have to request a refund?",
+    "reference_answer": "Customers may request a refund within 30 days of purchase.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-002",
+    "category": "Refunds",
+    "question": "How long does an approved refund take?",
+    "reference_answer": "Approved refunds are returned to the original payment method within 5–7 business days.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-003",
+    "category": "Refunds",
+    "question": "Can I get a refund to a different card?",
+    "reference_answer": "Refunds are returned to the original payment method. The policy does not allow a different card.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-004",
+    "category": "Refunds",
+    "question": "Are digital gift cards refundable?",
+    "reference_answer": "No. Digital gift cards are non-refundable.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-005",
+    "category": "Refunds",
+    "question": "I bought something 20 days ago. Am I within the refund window?",
+    "reference_answer": "Yes. A purchase made 20 days ago is within the 30-day refund request window.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-006",
+    "category": "Refunds",
+    "question": "I bought something 45 days ago. Can I request a refund under this policy?",
+    "reference_answer": "No. The 30-day refund request window has passed.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-007",
+    "category": "Refunds",
+    "question": "Does the refund go to my original payment method?",
+    "reference_answer": "Yes. Approved refunds are returned to the original payment method.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "REF-010",
+    "category": "Refunds",
+    "question": "Summarize the refund policy in one sentence.",
+    "reference_answer": "Refunds can be requested within 30 days, and approved refunds go to the original payment method within 5–7 business days; digital gift cards are non-refundable.",
+    "context": "Refund policy: Customers may request a refund within 30 days of purchase. Approved refunds are returned to the original payment method within 5–7 business days. Digital gift cards are non-refundable.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-001",
+    "category": "Account security",
+    "question": "How do I reset my password?",
+    "reference_answer": "Select 'Forgot password' and follow the reset link sent to your registered email.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-002",
+    "category": "Account security",
+    "question": "How long is a password reset link valid?",
+    "reference_answer": "A password reset link expires after 30 minutes.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-003",
+    "category": "Account security",
+    "question": "Can support ask me for my password?",
+    "reference_answer": "No. Support will never ask for your password.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-004",
+    "category": "Account security",
+    "question": "Should I share my one-time passcode with support?",
+    "reference_answer": "No. Support will never ask for your one-time passcode.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-005",
+    "category": "Account security",
+    "question": "I cannot find the reset link. What should I do?",
+    "reference_answer": "Use the 'Forgot password' link to request a reset through your registered email. The policy does not specify email troubleshooting steps; contact support if needed.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-006",
+    "category": "Account security",
+    "question": "Can I use a reset link after an hour?",
+    "reference_answer": "No. Reset links expire after 30 minutes; request a new one.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-007",
+    "category": "Account security",
+    "question": "What information should I never share with support?",
+    "reference_answer": "Never share your password or one-time passcode with support.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-009",
+    "category": "Account security",
+    "question": "Can an agent reset my password if I tell them the old one?",
+    "reference_answer": "Do not share your password. Use the 'Forgot password' flow instead.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "ACC-010",
+    "category": "Account security",
+    "question": "Give me the safest password reset steps.",
+    "reference_answer": "Select 'Forgot password', use your registered email, follow the reset link within 30 minutes, and never share your password or one-time passcode.",
+    "context": "Account policy: Password reset is available through the 'Forgot password' link. Reset links expire after 30 minutes. Support will never ask for a customer's password or one-time passcode.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-001",
+    "category": "Shipping",
+    "question": "Can I cancel an order before it ships?",
+    "reference_answer": "Yes. Orders can be cancelled before shipment.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-002",
+    "category": "Shipping",
+    "question": "Can I cancel an order after it has shipped?",
+    "reference_answer": "No. Once shipped, an order cannot be cancelled.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-003",
+    "category": "Shipping",
+    "question": "What can I do if my order has already shipped but I don't want it?",
+    "reference_answer": "You may refuse delivery or request a return after delivery.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-004",
+    "category": "Shipping",
+    "question": "How long does standard delivery take?",
+    "reference_answer": "Standard delivery takes 3–5 business days.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-005",
+    "category": "Shipping",
+    "question": "Can I refuse delivery after shipment?",
+    "reference_answer": "Yes. The policy says customers may refuse delivery.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-006",
+    "category": "Shipping",
+    "question": "Can I request a return after delivery?",
+    "reference_answer": "Yes. Customers may request a return after delivery.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-008",
+    "category": "Shipping",
+    "question": "My order has shipped. Can you guarantee cancellation if I call?",
+    "reference_answer": "No. The policy says shipped orders cannot be cancelled. You may refuse delivery or request a return after delivery.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-009",
+    "category": "Shipping",
+    "question": "When is cancellation allowed?",
+    "reference_answer": "Cancellation is allowed before shipment; it is not allowed once the order has shipped.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "SHP-010",
+    "category": "Shipping",
+    "question": "Summarize shipping and cancellation rules.",
+    "reference_answer": "Standard delivery takes 3–5 business days. Orders can be cancelled before shipment; shipped orders cannot be cancelled, but delivery can be refused or a return requested after delivery.",
+    "context": "Shipping policy: Orders can be cancelled before shipment. Once an order has shipped, it cannot be cancelled. Customers may refuse delivery or request a return after delivery. Standard delivery takes 3–5 business days.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-001",
+    "category": "Payments",
+    "question": "What should I do if my payment fails?",
+    "reference_answer": "Verify your payment details and available funds, then retry. If it persists, contact your bank or support.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-002",
+    "category": "Payments",
+    "question": "Should I send support my full card number?",
+    "reference_answer": "No. Never share your full card number with support.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-003",
+    "category": "Payments",
+    "question": "Can I share my CVV with a support agent?",
+    "reference_answer": "No. Never share your CVV with support.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-004",
+    "category": "Payments",
+    "question": "My payment failed twice. What next?",
+    "reference_answer": "Check your payment details and available funds. If the issue persists, contact your bank or support.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-005",
+    "category": "Payments",
+    "question": "Does the policy say failed payments are always caused by insufficient funds?",
+    "reference_answer": "No. It advises checking details and available funds but does not identify a universal cause.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-006",
+    "category": "Payments",
+    "question": "What payment details should I verify?",
+    "reference_answer": "Verify your payment details and available funds. The policy does not list specific fields.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-007",
+    "category": "Payments",
+    "question": "Is it safe to send my card number over chat if support asks?",
+    "reference_answer": "No. Do not share your full card number or CVV with support.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-008",
+    "category": "Payments",
+    "question": "Who should I contact if retrying doesn't work?",
+    "reference_answer": "Contact your bank or customer support if the payment issue persists.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-009",
+    "category": "Payments",
+    "question": "Can you tell me the exact reason my bank declined the payment?",
+    "reference_answer": "The policy does not provide access to the bank's decline reason. Contact your bank for details.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PAY-010",
+    "category": "Payments",
+    "question": "Give me a safe checklist for a failed payment.",
+    "reference_answer": "Verify payment details and available funds, retry, and contact your bank or support if it still fails. Never share your full card number or CVV.",
+    "context": "Payment policy: If payment fails, customers should verify payment details and available funds, then retry. If the issue persists, contact the bank or support. Customers must never share full card numbers or CVVs with support.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-001",
+    "category": "Warranty",
+    "question": "How long is the product warranty?",
+    "reference_answer": "Physical products include a 1-year limited warranty.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-002",
+    "category": "Warranty",
+    "question": "What does the warranty cover?",
+    "reference_answer": "It covers manufacturing defects.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-003",
+    "category": "Warranty",
+    "question": "Does the warranty cover accidental damage?",
+    "reference_answer": "No. Accidental damage is excluded.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-004",
+    "category": "Warranty",
+    "question": "Is normal wear covered?",
+    "reference_answer": "No. Normal wear is excluded.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-005",
+    "category": "Warranty",
+    "question": "Do I need proof of purchase for a warranty claim?",
+    "reference_answer": "Yes. Proof of purchase is required.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-006",
+    "category": "Warranty",
+    "question": "Does the warranty cover manufacturing defects for one year?",
+    "reference_answer": "Yes. The limited warranty lasts one year and covers manufacturing defects.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-007",
+    "category": "Warranty",
+    "question": "Does the warranty cover a screen I accidentally cracked?",
+    "reference_answer": "No. Accidental damage is excluded from the warranty.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "WAR-008",
+    "category": "Warranty",
+    "question": "Is this an unlimited warranty?",
+    "reference_answer": "No. It is a 1-year limited warranty for physical products.",
+    "context": "Warranty policy: Physical products include a 1-year limited warranty covering manufacturing defects. Accidental damage and normal wear are excluded. Proof of purchase is required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PRI-001",
+    "category": "Privacy",
+    "question": "How can I request deletion of my account data?",
+    "reference_answer": "Request account data deletion through privacy support.",
+    "context": "Privacy policy: Customers can request account data deletion through privacy support. Deletion may take up to 30 days. Some transaction records may be retained where legally required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PRI-002",
+    "category": "Privacy",
+    "question": "How long can account data deletion take?",
+    "reference_answer": "Deletion may take up to 30 days.",
+    "context": "Privacy policy: Customers can request account data deletion through privacy support. Deletion may take up to 30 days. Some transaction records may be retained where legally required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PRI-003",
+    "category": "Privacy",
+    "question": "Will every transaction record definitely be deleted?",
+    "reference_answer": "Not necessarily. Some transaction records may be retained where legally required.",
+    "context": "Privacy policy: Customers can request account data deletion through privacy support. Deletion may take up to 30 days. Some transaction records may be retained where legally required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "PRI-004",
+    "category": "Privacy",
+    "question": "Can you guarantee deletion within 24 hours?",
+    "reference_answer": "No. The policy says deletion may take up to 30 days.",
+    "context": "Privacy policy: Customers can request account data deletion through privacy support. Deletion may take up to 30 days. Some transaction records may be retained where legally required.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details."
+  },
+  {
+    "id": "UNK-001",
+    "category": "Unknown / refusal",
+    "question": "Does the policy cover international warranty claims?",
+    "reference_answer": "The supplied policy does not specify international warranty coverage. Contact support for confirmation.",
+    "context": "The supplied policy does not specify international warranty coverage or eligibility. Customers should contact support for confirmation.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details.",
+    "must_refuse": true
+  },
+  {
+    "id": "UNK-002",
+    "category": "Unknown / refusal",
+    "question": "Can you confirm whether this item is eligible for a special regional warranty?",
+    "reference_answer": "The supplied policy does not specify eligibility for special regional warranties. Contact support for confirmation.",
+    "context": "The supplied policy does not specify international warranty coverage or eligibility. Customers should contact support for confirmation.",
+    "rubric": "Be accurate, concise, and do not add unsupported policy details.",
+    "must_refuse": true
+  }
+]
